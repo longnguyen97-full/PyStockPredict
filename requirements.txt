@@ -1,0 +1,5 @@
+vnstock==3.2.5
+pandas
+scikit-learn
+matplotlib
+streamlit
